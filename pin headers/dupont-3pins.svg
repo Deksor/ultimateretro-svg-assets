@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.62mm"
+   height="2.5mm"
+   version="1.1"
+   viewBox="0 0 7.62 2.5"
+   id="svg10"
+   sodipodi:docname="dupont-3pins.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="64.583334"
+     inkscape:cx="9.5922579"
+     inkscape:cy="4.7225806"
+     inkscape:window-width="1920"
+     inkscape:window-height="1127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     stroke="#000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".09"
+     id="dupont-3pins">
+    <rect
+       width="7.62"
+       height="2.5"
+       fill="#bfbfbf"
+       id="rect2" />
+    <rect
+       x=".76"
+       y=".76"
+       width="1.02"
+       height="1.02"
+       id="pin-1"
+       fill="#fff" />
+    <rect
+       x="3.3"
+       y=".76"
+       width="1.02"
+       height="1.02"
+       id="pin-2" />
+    <rect
+       x="5.84"
+       y=".76"
+       width="1.02"
+       height="1.02"
+       id="pin-3" />
+  </g>
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.35mm"
+   height="21.45mm"
+   version="1.1"
+   viewBox="0 0 1.635 2.145"
+   id="svg22"
+   sodipodi:docname="din-connector.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="9.164821"
+     inkscape:cx="30.933501"
+     inkscape:cy="40.589991"
+     inkscape:window-width="1920"
+     inkscape:window-height="1127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <g
+     stroke="#000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".0175px"
+     id="din-connector">
+    <g
+       id="g10">
+      <rect
+         x="1.293"
+         y=".563"
+         width=".121"
+         height="1.024"
+         id="rect2" />
+      <rect
+         x=".008"
+         y=".008"
+         width=".121"
+         height="2.135"
+         id="rect4" />
+      <rect
+         x=".1298"
+         y=".0943"
+         width=".121"
+         height="1.961"
+         id="rect6" />
+      <rect
+         x=".251"
+         y=".285"
+         width="1.041"
+         height="1.579"
+         id="rect8" />
+    </g>
+    <g
+       fill="#fff"
+       id="g18">
+      <rect
+         x="1.293"
+         y=".945"
+         width=".121"
+         height=".26"
+         id="rect12" />
+      <rect
+         x="1.414"
+         y=".667"
+         width=".174"
+         height=".33"
+         id="rect14" />
+      <rect
+         x="1.414"
+         y="1.152"
+         width=".174"
+         height=".33"
+         id="rect16" />
+    </g>
+  </g>
+</svg>
